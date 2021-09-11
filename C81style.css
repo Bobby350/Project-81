@@ -1,0 +1,17 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_background {
+	background-image: url("pencil.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+border-width: 10px;
+border-color: blue;
+border-style: ridge;
+}
